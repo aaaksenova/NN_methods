@@ -1,3 +1,3 @@
 # NN_methods
 
-Homework for the course of NN methods HSE CompLing
+This repo contains completed hometasks for "Neural Networks in NLP" course
